@@ -36,10 +36,16 @@ I've used two magnets as the case. They are attached with a separators (so that 
 I've started to make this as a 36 key keyboard but in the meantime I've decided to go to 34 only (it is not comfortable to operate 3 buttons for me with a thumb).
 ![build](img/410.jpg)
 
-There are actually 39 buttons on that keyboard. The 1 without a keycap - I am not using anymore due to that 36->34 change (I was to lazy to desolder that). 4 reversed buttons, that I am clicking with my thumb from the other side. So both thumb clusters are duplicated. and accessible from both sides of the keyboard. 
-
 Repeat the processed on the second half.
 ![build](img/430.jpg)
 
+## Reverse Thumb Cluster
+There are actually 39 buttons on that keyboard. The 1 without a keycap - I am not using anymore due to that 36->34 change (I was to lazy to desolder that). 4 reversed buttons, that I am clicking with my thumb from the other side (from the bottom of the keyboard). So both thumb clusters are duplicated. and accessible from both sides of the keyboard.
+
+![build](img/500.jpg)
+![build](img/510.jpg)
+
+![build](img/440.jpg)
+
 > [!NOTE]
-> I've used a terrible solder from AliExpress during this build. Not only the soldering looks bad but also the product was not durable. I've had several instances when the soldering broke and I had to resolder it again. After that I've resoldered entire right hand side with a new solder. 
+> I've used a terrible solder from AliExpress during this build. Not only the soldering looks bad but also the product was not durable. I've had several instances when the soldering broke and I had to resolder it again. After a couple failures like that I've resoldered entire right hand side with a new solder (and without the soldering tape).
