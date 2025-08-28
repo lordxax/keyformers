@@ -8,6 +8,7 @@
 - isolation tape
 - light glue
 - strong glue like epoxy (ideally metal bond)
+the cost of entire keyboard was around 20 USD. It mostly depends on the cost of the used keyboard. 
 
 ## Build 
 Disassemble the keyboard
