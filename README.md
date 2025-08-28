@@ -14,7 +14,7 @@ the cost of entire keyboard was around 20 USD. It mostly depends on the cost of 
 Disassemble the keyboard
 ![build](img/100.jpg)
 
-Desolder de keyboard
+Desolder the keyboard
 ![build](img/110.jpg)
 
 Experiment with the layout for both hands
@@ -23,10 +23,10 @@ Experiment with the layout for both hands
 Cut the keyboard frame/body into pieces
 ![build](img/210.jpg)
 
-Glue them together with epoxy/metal bond
+Glue the pieces together with epoxy/metal bond
 ![build](img/215.jpg)
 
-Attach switches. glue them to the frame with some weak glue and solder the rows (I actually do not recommend using that tape - it makes replacing switches more difficult)
+Attach switches. MX keycaps can be flipped by 90 degrees. Choc keycaps cannot (that is why my keycaps are rotated by 90 degrees). Glue them to the frame with some weak glue and solder the rows (I actually do not recommend using that tape - it makes replacing switches more difficult).
 ![build](img/301.jpg)
 
 Glue the MCU to the keyboard and solder that to the rows
